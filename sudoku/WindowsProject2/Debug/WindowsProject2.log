@@ -1,0 +1,19 @@
+﻿  WindowsProject2.cpp
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\windowsproject2\windowsproject2\windowsproject2.cpp(1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  c:\users\asus\documents\progs\3sem\yavu\kursovaya\windowsproject2\windowsproject2\windowsproject2.cpp: note: см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\windowsproject2\windowsproject2\windowsproject2.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\asus\documents\progs\3sem\yavu\kursovaya\windowsproject2\windowsproject2\windowsproject2.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\asus\documents\progs\3sem\yavu\kursovaya\windowsproject2\windowsproject2\windowsproject2.cpp(3): note: использование предварительно скомпилированного заголовка
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\windowsproject2\windowsproject2\windowsproject2.cpp(12): warning C4005: MAX_PATH: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(60): note: см. предыдущее определение "MAX_PATH"
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\windowsproject2\windowsproject2\windowsproject2.cpp(145): warning C4101: j: неиспользованная локальная переменная
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\windowsproject2\windowsproject2\windowsproject2.cpp(213): warning C4838: преобразование из "UINT" в "LONG" требует сужающего преобразования
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\windowsproject2\windowsproject2\windowsproject2.cpp(207): warning C4101: hInst: неиспользованная локальная переменная
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\windowsproject2\windowsproject2\windowsproject2.cpp(211): warning C4101: hBrush: неиспользованная локальная переменная
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\windowsproject2\windowsproject2\windowsproject2.cpp(205): warning C4101: minor: неиспользованная локальная переменная
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\windowsproject2\windowsproject2\windowsproject2.cpp(203): warning C4101: dwVersion: неиспользованная локальная переменная
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\windowsproject2\windowsproject2\windowsproject2.cpp(212): warning C4101: hPen: неиспользованная локальная переменная
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\windowsproject2\windowsproject2\windowsproject2.cpp(204): warning C4101: major: неиспользованная локальная переменная
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\windowsproject2\windowsproject2\windowsproject2.cpp(206): warning C4101: build: неиспользованная локальная переменная
+WindowsProject2.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__CreateToolbarEx@52 в функции "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z)
+C:\Users\asus\Documents\progs\3sem\yavu\kursovaya\WindowsProject2\Debug\WindowsProject2.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
