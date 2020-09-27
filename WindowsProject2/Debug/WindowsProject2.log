@@ -1,0 +1,16 @@
+﻿  WindowsProject2.cpp
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\kr\windowsproject2\windowsproject2\windowsproject2.cpp(1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  c:\users\asus\documents\progs\3sem\yavu\kursovaya\kr\windowsproject2\windowsproject2\windowsproject2.cpp: note: см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\kr\windowsproject2\windowsproject2\windowsproject2.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\asus\documents\progs\3sem\yavu\kursovaya\kr\windowsproject2\windowsproject2\windowsproject2.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\asus\documents\progs\3sem\yavu\kursovaya\kr\windowsproject2\windowsproject2\windowsproject2.cpp(3): note: использование предварительно скомпилированного заголовка
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\kr\windowsproject2\windowsproject2\source1.cpp(243): warning C4101: fl: неиспользованная локальная переменная
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\kr\windowsproject2\windowsproject2\source1.cpp(430): warning C4101: s: неиспользованная локальная переменная
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\kr\windowsproject2\windowsproject2\source1.cpp(429): warning C4101: j: неиспользованная локальная переменная
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\kr\windowsproject2\windowsproject2\windowsproject2.cpp(21): warning C4005: MAX_PATH: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(60): note: см. предыдущее определение "MAX_PATH"
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\kr\windowsproject2\windowsproject2\windowsproject2.cpp(170): warning C4838: преобразование из "UINT" в "LONG" требует сужающего преобразования
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\kr\windowsproject2\windowsproject2\windowsproject2.cpp(400): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "DialogBoxW"
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\kr\windowsproject2\windowsproject2\windowsproject2.cpp(168): warning C4101: hBrush: неиспользованная локальная переменная
+c:\users\asus\documents\progs\3sem\yavu\kursovaya\kr\windowsproject2\windowsproject2\windowsproject2.cpp(169): warning C4101: hPen: неиспользованная локальная переменная
+  WindowsProject2.vcxproj -> C:\Users\asus\Documents\progs\3sem\yavu\kursovaya\kr\WindowsProject2\Debug\WindowsProject2.exe
